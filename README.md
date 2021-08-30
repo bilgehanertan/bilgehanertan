@@ -1,5 +1,5 @@
 
-<h2 align="center">Hello there! My name is M. Bilgehan Ertan👋🤓</h2>
+<h2 align="center">Hello there! My name is M. Bilgehan Ertan👋</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Computer Science from Sabanci University. I am interested in Cyber Security and software technologies.
   Feel free to contact me! 
   
