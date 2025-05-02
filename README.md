@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! My name is M. Bilgehan Ertan👋</h2>
-<p align="center">I'm currently pursuing my Master of Computer Security at VU Amsterdam. I am interested in Computer Security and software technologies.
+<p align="center">I'm currently pursuing my PhD in Security & Machine Learning at CWI.
   Feel free to contact me! 
   
 </p>
